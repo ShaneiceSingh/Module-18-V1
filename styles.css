@@ -60,6 +60,7 @@ ul {
   border-bottom: 2px solid black;
 }
 
+<!--  My UX Skills section coded using CSS flex -->
 .myskills{ 
   margin: 2rem;
 }
@@ -74,7 +75,7 @@ ul {
   width: 30%; 
   margin-bottom: 2rem;
 }
-
+<!-- My Work Section Constructed using CSS Grid -->
 .mywork{ 
   margin: 2rem;
 }
